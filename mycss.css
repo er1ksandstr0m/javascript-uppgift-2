@@ -1,0 +1,9 @@
+/*Här skriver ni css*/
+.delete {
+    visibility: hidden;
+}
+
+/*Deluppgift 9: Knappen ska bara synas när man hovrar */
+li:hover .delete {
+    visibility: visible;
+}
